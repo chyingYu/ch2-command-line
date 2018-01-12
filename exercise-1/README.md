@@ -29,11 +29,11 @@ ls
 
 
 # Navigate to the "Desktop" folder for your machine
-
+cd /c/Users/Chying/Desktop
 
 # Display the contents of the "Documents/quick-exercise/constitution.txt" file in the Terminal
 # *without changing directories again!*
-
+ls Info_201/exercises/ch2-command-line/exercise-1/constitution.txt
 
 
 # Bonus: Create 10 files with one single command in your terminal. Then delete them all!
